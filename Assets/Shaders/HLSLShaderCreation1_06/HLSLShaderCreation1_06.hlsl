@@ -5,6 +5,13 @@
 /// @param BrightnessAmount 
 /// @param LastValue 
 /// @return LastValue
+///
+///// Kontrast ayarlamak için basit bir formül
+/// color = (color - 0.5) * _Contrast + 0.5;
+///
+///// Brightness ayarlamak için basit bir formül
+/// color += _Brightness;
+/// 
 float3 BrightnessContrast_float(float3 StartColor, float ContrastAmount, float BrightnessAmount, out float3 LastValue)
 {
     LastValue = StartColor - 0.5;

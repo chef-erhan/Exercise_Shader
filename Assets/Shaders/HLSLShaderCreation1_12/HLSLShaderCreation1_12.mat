@@ -51,12 +51,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FakeLightIntensity: 0.181
+    - _FakeLightIntensity: 0.291
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _FakeLightColor: {r: 1, g: 0.30953938, b: 0, a: 1}
-    - _FakeLightPosition: {r: 10.4, g: 9.88, b: -17.87, a: 0}
+    - _FakeLightColor: {r: 1, g: 0, b: 0, a: 1}
+    - _FakeLightPosition: {r: 31.23, g: 41.2, b: -17.87, a: 0}
     - _LightPosition: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

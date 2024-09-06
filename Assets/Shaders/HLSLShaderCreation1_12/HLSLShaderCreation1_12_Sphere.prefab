@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 194048407382587721}
   - component: {fileID: 1791940191870691362}
   m_Layer: 0
-  m_Name: HLSLShaderCreation1_12
+  m_Name: HLSLShaderCreation1_12_Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

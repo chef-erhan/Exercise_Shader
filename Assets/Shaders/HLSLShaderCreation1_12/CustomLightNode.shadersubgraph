@@ -157,8 +157,8 @@
     "m_Color": {
         "color": {
             "r": 1.0,
-            "g": 0.45236676931381228,
-            "b": 0.2594339847564697,
+            "g": 0.9606117010116577,
+            "b": 0.0,
             "a": 0.0
         },
         "mode": 0
@@ -227,7 +227,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Z",
     "m_StageCapability": 3,
-    "m_Value": 1.5,
+    "m_Value": -1.5,
     "m_DefaultValue": 0.0,
     "m_Labels": [
         "Z"
@@ -275,7 +275,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "X",
     "m_StageCapability": 3,
-    "m_Value": 3.5899999141693117,
+    "m_Value": 4.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -361,7 +361,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Y",
     "m_StageCapability": 3,
-    "m_Value": 6.940000057220459,
+    "m_Value": 7.0,
     "m_DefaultValue": 0.0,
     "m_Labels": [
         "Y"

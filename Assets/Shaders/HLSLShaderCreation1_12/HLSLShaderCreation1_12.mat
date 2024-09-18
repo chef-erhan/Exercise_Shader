@@ -51,7 +51,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FakeLightIntensity: 0.291
+    - _FakeLightIntensity: 0.337
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:

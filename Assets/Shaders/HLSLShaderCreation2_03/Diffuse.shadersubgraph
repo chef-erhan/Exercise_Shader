@@ -38,6 +38,9 @@
         },
         {
             "m_Id": "5ebf5d6ce0b648a4aeedad2dabd43070"
+        },
+        {
+            "m_Id": "5253884938474d369ec84cbcb52a188f"
         }
     ],
     "m_GroupDatas": [],
@@ -331,6 +334,29 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "1cfdb3311b4f4b7b86ea8c33b3521c80",
+    "m_Id": 5,
+    "m_DisplayName": "LightVector",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "LightVector",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
     "m_ObjectId": "271b0a3386174245a85653eb7ec1ec7a",
     "m_Id": 0,
@@ -464,6 +490,47 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.SubGraphNode",
+    "m_ObjectId": "5253884938474d369ec84cbcb52a188f",
+    "m_Group": {
+        "m_Id": ""
+    },
+    "m_Name": "CustomDirectionalLight",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -477.00006103515627,
+            "y": -548.0,
+            "width": 208.0,
+            "height": 303.0
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "c7e501dac36a49d4ae64449bbf3fb563"
+        },
+        {
+            "m_Id": "cf9c0f9334644f5ea0a2be549275f478"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_DismissedVersion": 0,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_SerializedSubGraph": "{\n    \"subGraph\": {\n        \"fileID\": -5475051401550479605,\n        \"guid\": \"afd7030a449ee41e183fd7646b19f3fe\",\n        \"type\": 3\n    }\n}",
+    "m_PropertyGuids": [],
+    "m_PropertyIds": [],
+    "m_Dropdowns": [],
+    "m_DropdownSelectedEntries": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "57b76e7c607d40f6ae780d3d5b23fac8",
     "m_Group": {
@@ -583,6 +650,9 @@
         },
         {
             "m_Id": "d337773b306745ea8669adf395c25445"
+        },
+        {
+            "m_Id": "1cfdb3311b4f4b7b86ea8c33b3521c80"
         }
     ],
     "synonyms": [],
@@ -894,6 +964,29 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "c7e501dac36a49d4ae64449bbf3fb563",
+    "m_Id": 1,
+    "m_DisplayName": "LightVector",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "LightVector",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "c7f50be8534847798a307256c5089dda",
     "m_Id": 0,
@@ -919,12 +1012,35 @@
 {
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
-    "m_ObjectId": "d337773b306745ea8669adf395c25445",
-    "m_Id": 4,
-    "m_DisplayName": "LightVector",
+    "m_ObjectId": "cf9c0f9334644f5ea0a2be549275f478",
+    "m_Id": 2,
+    "m_DisplayName": "LightVectorN",
     "m_SlotType": 1,
     "m_Hidden": false,
-    "m_ShaderOutputName": "LightVector",
+    "m_ShaderOutputName": "LightVectorN",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "d337773b306745ea8669adf395c25445",
+    "m_Id": 4,
+    "m_DisplayName": "LightVectorN",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "LightVectorN",
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,

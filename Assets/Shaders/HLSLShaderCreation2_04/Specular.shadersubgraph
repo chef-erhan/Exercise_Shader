@@ -969,6 +969,29 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "5b07c8adbede431882148ff7088bf957",
+    "m_Id": 5,
+    "m_DisplayName": "LightVector",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "LightVector",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "5b71bdaf4e5c4349882c11acb9440a11",
     "m_Id": 0,
@@ -1518,6 +1541,9 @@
         },
         {
             "m_Id": "d96ee50098494bfb8e202a833d5e661e"
+        },
+        {
+            "m_Id": "5b07c8adbede431882148ff7088bf957"
         }
     ],
     "synonyms": [],
@@ -2114,10 +2140,10 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "d96ee50098494bfb8e202a833d5e661e",
     "m_Id": 4,
-    "m_DisplayName": "LightVector",
+    "m_DisplayName": "LightVectorN",
     "m_SlotType": 1,
     "m_Hidden": false,
-    "m_ShaderOutputName": "LightVector",
+    "m_ShaderOutputName": "LightVectorN",
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,

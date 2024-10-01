@@ -38,12 +38,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Angle: 3.5
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Direction: {r: 0, g: 2.49, b: 0, a: 0}
-    - _Position: {r: 0, g: 1.13, b: 0, a: 0}
-    - _SpotColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Direction: {r: 0, g: 1, b: 0, a: 0}
+    - _Position: {r: 0, g: 1.24, b: 0, a: 0}
+    - _SpotColor: {r: 1, g: 0, b: 0.948586, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2650505855641293333
 MonoBehaviour:

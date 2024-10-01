@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HLSLShaderCreation2_03
-  m_Shader: {fileID: -6465566751694194690, guid: 7abaa9e6bc05a40edbc293d7f3ee98f7,
+  m_Name: HLSLShaderCreation2_07
+  m_Shader: {fileID: -6465566751694194690, guid: 34fc36cd6a74444ee9aa0446a0e7f995,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,10 +24,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _Texture2D:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -42,14 +38,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DiffuseAmount: 1.43
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _AmbientColor: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 1}
-    - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Direction: {r: 0, g: 2.49, b: 0, a: 0}
+    - _Position: {r: 0, g: 1.13, b: 0, a: 0}
+    - _SpotColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &1040007771922203678
+--- !u!114 &2650505855641293333
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

@@ -59,11 +59,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Gloss: 1.7
+    - _Gloss: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _AmbientColor: {r: 0.41509426, g: 0.41509426, b: 0.41509426, a: 0}
-    - _DiffuseColor: {r: 0.6037736, g: 0.6037736, b: 0.6037736, a: 0}
-    - _SpecularColor: {r: 0.9811321, g: 0, b: 0, a: 0}
+    - _AmbientColor: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 0}
+    - _DiffuseColor: {r: 1, g: 1, b: 1, a: 0}
+    - _SpecularColor: {r: 0.98039216, g: 0.18226598, b: 0, a: 0}
   m_BuildTextureStacks: []

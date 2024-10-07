@@ -3675,10 +3675,10 @@
     "m_Guid": {
         "m_GuidSerialized": "4142a19d-c383-4f53-9e44-045cabdd58b3"
     },
-    "m_Name": "LightPosition",
+    "m_Name": "LightPos",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "LightPosition",
-    "m_DefaultReferenceName": "_LightPosition",
+    "m_RefNameGeneratedByDisplayName": "LightPos",
+    "m_DefaultReferenceName": "_LightPos",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -4401,7 +4401,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
     "m_ObjectId": "d14db7f5ed3d42e2b4d52a661895afee",
     "m_Id": 0,
-    "m_DisplayName": "LightPosition",
+    "m_DisplayName": "LightPos",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",

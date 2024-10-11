@@ -51,12 +51,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Vector1_3978b2293763497dafd23ba61cb8ad0c: 0.07
-    - _NormalScale: 1.45
-    - _NormalStrength: 1.26
+    - Vector1_3978b2293763497dafd23ba61cb8ad0c: 0.05
+    - _Float: 0.29
+    - _NormalScale: 3.82
+    - _NormalStrength: 0.05
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 1.17
+    - _Remap: 0.493
+    - _Smoothness: 6.72
+    - _Step: 0.02
+    - _Substract: 0.78
     m_Colors:
-    - _MainColor: {r: 1.7616465, g: 0, b: 0, a: 1}
+    - _MainColor: {r: 0, g: 0.46648127, b: 2.3519366, a: 1}
   m_BuildTextureStacks: []

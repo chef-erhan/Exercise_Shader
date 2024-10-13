@@ -38,22 +38,22 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Speed: 0.28
+    - Speed: 0.4
     - SphereRadius: 1
     - TopDown_Radius: 0
     - _QueueControl: 1
     - _QueueOffset: 0
     - _vertexDisplacement: 0
-    - foamPower: 8.6
-    - highlightPosition: 0.63
+    - foamPower: 41.12
+    - highlightPosition: 0.7
     - innerFoamRadius: 0.3
     - radiusGradient: 0.3
-    - refractionPower: 0
+    - refractionPower: 0.148
     - watergap: 0
     m_Colors:
     - BaseColor: {r: 0, g: 0.1852703, b: 4, a: 0}
     - NoiseColor: {r: 0.4948663, g: 1, b: 0, a: 0}
-    - _Color: {r: 1, g: 0, b: 0, a: 0}
+    - _Color: {r: 0, g: 0.2598443, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2582957435915967717
 MonoBehaviour:

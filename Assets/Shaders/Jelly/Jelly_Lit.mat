@@ -43,11 +43,11 @@ Material:
     m_Ints: []
     m_Floats:
     - Vector1_3978b2293763497dafd23ba61cb8ad0c: 0.05
-    - _NormalScale: 0.39
-    - _NormalStrength: 0.05
+    - _NormalScale: 0.9
+    - _NormalStrength: 0.15
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0.44
+    - _Smoothness: 0.26
     m_Colors:
     - _MainColor: {r: 0, g: 0.5794997, b: 1, a: 0}
     - _Tiling: {r: 50, g: 50, b: 0, a: 0}

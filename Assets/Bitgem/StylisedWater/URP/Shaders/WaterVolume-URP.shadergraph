@@ -574,9 +574,6 @@
             "m_Id": "27073a029c40430fa3b2cf3075c1b33e"
         },
         {
-            "m_Id": "97c51b9c4a504cd6a409a33ee02a3ea4"
-        },
-        {
             "m_Id": "fc5d70716819401ca17df24874fa35db"
         },
         {
@@ -3259,9 +3256,6 @@
             },
             {
                 "m_Id": "27073a029c40430fa3b2cf3075c1b33e"
-            },
-            {
-                "m_Id": "97c51b9c4a504cd6a409a33ee02a3ea4"
             },
             {
                 "m_Id": "fc5d70716819401ca17df24874fa35db"
@@ -11021,21 +11015,6 @@
 {
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
-    "m_ObjectId": "654b85c3fbcf4f5cbc0cad634dc25fd3",
-    "m_Id": 0,
-    "m_DisplayName": "Alpha",
-    "m_SlotType": 0,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Alpha",
-    "m_StageCapability": 2,
-    "m_Value": 1.0,
-    "m_DefaultValue": 1.0,
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "658f80e7933f008092bda618e3808c9e",
     "m_Id": 1,
     "m_DisplayName": "R",
@@ -14696,40 +14675,6 @@
     "m_ShaderOutputName": "Sampler",
     "m_StageCapability": 3,
     "m_BareResource": false
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.BlockNode",
-    "m_ObjectId": "97c51b9c4a504cd6a409a33ee02a3ea4",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "SurfaceDescription.Alpha",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": 0.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "654b85c3fbcf4f5cbc0cad634dc25fd3"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_SerializedDescriptor": "SurfaceDescription.Alpha"
 }
 
 {

@@ -44,16 +44,16 @@ Material:
     - _QueueControl: 1
     - _QueueOffset: 0
     - _vertexDisplacement: 0
-    - foamPower: 41.12
-    - highlightPosition: 0.7
+    - foamPower: 1.2
+    - highlightPosition: 1.3
     - innerFoamRadius: 0.3
     - radiusGradient: 0.3
-    - refractionPower: 0.148
+    - refractionPower: 0.002
     - watergap: 0
     m_Colors:
     - BaseColor: {r: 0, g: 0.1852703, b: 4, a: 0}
     - NoiseColor: {r: 0.4948663, g: 1, b: 0, a: 0}
-    - _Color: {r: 0, g: 0.2598443, b: 1, a: 0}
+    - _Color: {r: 0, g: 0.25882387, b: 1, a: 0.50980395}
   m_BuildTextureStacks: []
 --- !u!114 &2582957435915967717
 MonoBehaviour:

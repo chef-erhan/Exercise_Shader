@@ -98,7 +98,7 @@ Material:
     - _DiffTex:
         m_Texture: {fileID: 2800000, guid: c303a54fa00412a43864cdfb529bb202, type: 3}
         m_Scale: {x: 10, y: 10}
-        m_Offset: {x: -0.38305607, y: -0.30644485}
+        m_Offset: {x: -0.117017955, y: -0.09361436}
     - _Diffuse:
         m_Texture: {fileID: 2800000, guid: aa701e5be2dbcd24aad4fb9c3ca284da, type: 3}
         m_Scale: {x: 500, y: 500}
@@ -142,7 +142,7 @@ Material:
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: a2356ab4a4fb5f74c83096735dc7dc9d, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: -0.2553707, y: -0.2553707}
+        m_Offset: {x: -0.07801197, y: -0.07801197}
     - _MainTexRing:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}

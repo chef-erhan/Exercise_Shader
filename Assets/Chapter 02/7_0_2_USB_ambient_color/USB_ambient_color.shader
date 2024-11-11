@@ -3,6 +3,7 @@ Shader "USB/USB_ambient_color"
     Properties
     {
         _MainTex ("Texture", 2D) = "white" {}
+        
         // let's add a property to dinamically modify the ambient color
         _Ambient ("Ambient Color", Range(0, 1)) = 1
     }
@@ -36,6 +37,7 @@ Shader "USB/USB_ambient_color"
 
             sampler2D _MainTex;
             float4 _MainTex_ST;
+
             // we need to connect the property with an internal variable
             float _Ambient;
 
